@@ -1,2 +1,2 @@
-# EstruturaSeq_Ex1
-Exercício 1 em Java da lista: https://wiki.python.org.br/EstruturaSequencial
+# Lista Estrutura Sequencial
+1. Faça um Programa que mostre a mensagem "Alo mundo" na tela.
